@@ -7,7 +7,10 @@
 ### Hedef Kitle: Bu modeli yangın hakkında bilgi sahibi olmak ve yangın için ne gibi çözümler yapıldını öğrenmek isteyen herkes kullanabilir. Burdaki amaç insanları yangın hakkında bilinçlendirmek.✨✨
 **📌KULLANDIĞIM UGULAMALAR/KÜTÜPHANELER:**
 - Discord
-- yolov3
+- numpy 
 - Google Colab
 - VS Studio Code
+- os
+- cv2
+## Umarım projemi beğenirsinizz! \(@>◡<@ )/
 
