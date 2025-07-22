@@ -12,5 +12,5 @@
 - VS Studio Code
 - os
 - cv2
-## Umarım projemi beğenirsinizz! \(@>◡<@ )/
+## Umarım projemi beğenirsinizz! \\(@>◡<@ )/
 
